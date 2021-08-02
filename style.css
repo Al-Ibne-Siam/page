@@ -1,0 +1,148 @@
+body{
+  background-color: #222831;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 1.5rem;
+  color: #393E46;
+  margin: 0;
+}
+
+hr {
+  width: 25%;
+  background-color:#edc158;
+  margin-top: 5rem;
+  height: 1px;
+}
+
+.top_body{
+  margin-top: 5rem;
+  margin-bottom: 5%;
+}
+
+.upper_layer{
+  background-color: #FFD369;
+  margin-left: 10rem;
+  padding: 0;
+}
+
+.hello{
+  margin-left: 2rem;
+  display: inline-block;
+}
+
+.more_info{
+  background-color: #edc158;
+  display: inline-block;
+  margin-left: 80%;
+  padding-left: 5rem;
+  padding-bottom: 5rem;
+  padding-right: 5rem;
+}
+
+.facebook{
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.github{
+  display: inline-block;
+}
+
+.github:hover{
+  border-color: black;
+  border-width: thin;
+}
+
+.lower_layer{
+  color: #FFD369;
+  margin-left: 10rem;
+}
+
+.middle-body{
+  height: 40%;
+  width: 60%;
+  margin-top: 5%;
+  margin-left: 24%;
+  margin-right: 15%;
+  margin-bottom: 5%;
+}
+
+.list{
+  background-color: #FDD369;
+  display: table-cell;
+  height: 22rem;
+  width: 20rem;
+  border: 35px solid;
+  border-spacing: 35px;
+  border-color: #222831;
+  vertical-align:top;
+}
+
+.skills{
+  margin-left: 2rem;
+}
+
+.img{
+  display: inline-block;
+  position: absolute;
+  width: 40%;
+  margin-left: 20%;
+}
+.content{
+  display: inline-block;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 5%;
+}
+
+.project-heading{
+  margin-right: 5%;
+  color: #FDD369;
+}
+
+.project-description{
+  text-align: justify;
+  position: relative;
+  color: white;
+  width: 40%;
+}
+
+.btn {
+  border-radius: 0;
+  font-size: 20px;
+  color: #222831;
+  background: #FDD369;
+  padding: 5px 20px 15px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background: #222831;
+  color: #FDD369;
+  text-decoration: none;
+  border-color: #FDD369;
+}
+
+.lower-body{
+  height: 30%;
+}
+
+.footer{
+  display: inline-block;
+  padding: 0.5rem 5rem 0.5rem 5rem;
+  margin-top: 30%;
+  margin-bottom: 0;
+  background-color: #FDD369;
+  color: black;
+  margin-right: 10%;
+}
+
+
+.footer-note{
+  position: relative;
+}
+
+.top-button{
+  margin-left: 90%;
+  padding-bottom: 0;
+}
